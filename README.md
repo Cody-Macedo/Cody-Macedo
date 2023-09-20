@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cody-Macedo
-- 👀 I’m gonna be a fullstack developper
+- 👀 Fullstack developper
 - 📫 You can check all my skills on my website [here](codymacedo.fr)
 
 <!---
